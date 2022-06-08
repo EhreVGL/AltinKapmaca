@@ -30,8 +30,11 @@ Hedeflerine ulaşır ve parayı ilk alan olurlarsa envanterlerine o hedefteki pa
 ## Botların Hedef Belirlerkenki Kuralları
 
 Bot-1: En yakın altın bulunur.
+
 Bot-2: Maliyetler göz önüne alınarak en kârlı altın bulunur.
+
 Bot-3: Hedef belirlemeden önce 2 gizli altın görünür yapılır. Ardından maliyetler göz önüne alınarak en kârlı altın bulunur.
+
 Bot-4: Diğer oyuncuların kendi hedeflediği altına kendisinden önce ulaşıp ulaşamayacağı ve maliyeti hesaplayarak en kârlı altın bulunur.
 
 ## Youtube Linki
